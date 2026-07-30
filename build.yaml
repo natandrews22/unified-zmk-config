@@ -18,3 +18,4 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:2  - board: nice_nano_v23    shield: sgd_pad
