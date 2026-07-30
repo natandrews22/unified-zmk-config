@@ -1,0 +1,2 @@
+config SHIELD_SGD_PAD
+    def_bool $(shields_list_contains,sgd_pad)
