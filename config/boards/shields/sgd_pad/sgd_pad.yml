@@ -2,7 +2,7 @@ file_format: "1"
 id: sgd_pad
 name: SGD Pad
 type: shield
-url: https://github.com/YOUR_USERNAME/unified-zmk-config
+url: https://github.com/natandrews22/unified-zmk-config
 requires: [nice_nano_v2]
 features:
   - keys
